@@ -244,6 +244,7 @@ body, ul{
 
 }
 .rodape .info-contato p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 0px;
 }
 .rodape a {
